@@ -2,7 +2,7 @@
 """
 Created on Tue Jan 15 16:59:09 2019
 
-@author: luize
+@author: luizeduardoarraes
 """
 
 import numpy as np
